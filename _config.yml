@@ -1,10 +1,10 @@
-title: Subramaniyan Krishnan # your name (or website title) here
+title: Test Titile  www.test.io# your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   First description 
-  <br>I'm full stack website designer <br>
+  <br>its been while for us to get to this stage, but its looks awesome to see these pages can be generated on the fly  <br>
   Second description 
-  <br><br>
+  <br> let see how we could build and how this looks in live<br>
   <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
